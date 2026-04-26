@@ -15,7 +15,8 @@ class TeamTodoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Team Todo',
+      title: 'Team Todoxx',
+      color: Colors.green,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
