@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   // ─── Current filter ──────────────────────────────────────────────────────
   String _selectedFilter = 'All';
-  final List<String> _filters = ['All', 'Todo', 'In progress', 'Done'];
+  final List<String> _filters = ['All', 'Todox', 'In progress', 'Done'];
 
   // ─── Add-task dialog controllers ─────────────────────────────────────────
   final TextEditingController _titleController = TextEditingController();
