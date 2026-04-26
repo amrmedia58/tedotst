@@ -181,7 +181,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   const SizedBox(width: 12),
                   Expanded(
                     child: _buildSocialButton(
-                      label: 'Apple',
+                      label: 'Applex',
                       icon: Icons.apple_rounded,
                       iconColor: const Color(0xFF1A1A2E),
                       onTap: () {},
